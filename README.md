@@ -213,7 +213,7 @@ Abra seu navegador em: `http://localhost:5173`
 - ✅ Blacklist de tokens JWT (logout)
 - ✅ Pool de conexões MongoDB
 - ✅ Sanitização de inputs
-- ✅ CORS configurado para o frontend
+- ✅ CORS configurado para o frontend.
 
 ### ✅ Frontend
 - ✅ Interface bonita inspirada no FruitFavs
@@ -411,5 +411,6 @@ Em caso de dúvidas ou problemas:
 4. Verifique se as portas 4000 e 5173 estão livres
 
 ---
-#   F r u i t S e l e c t i o n  
+#   F r u i t S e l e c t i o n 
+ 
  
